@@ -1,26 +1,27 @@
-## Informática  - Mi experiencia y algunos datos más
+## Tecnología  - Mi experiencia y algunos datos más
 
 
-### Reflexiones sobre
-
-
-```markdown
-
-# Proyectos
-- Liderazgo
+# Experiencia en Proyectos
+- Trabajo en Equipos
 - Agile
 - Tools
+
+### Documentación
+
+-[Agentes Virtuales](https://github.com/Mpozoc/Documentos/tree/master/Agentes%20Inteligentes)
+- Data Science
+  -[Introducción](https://github.com/Mpozoc/Documentos/blob/master/Intro_Datascience.md)
+  -[Programación R](https://github.com/Mpozoc/Documentos/tree/master/Programación_R)
+
 
 # Reflexiones
 - Transformación digital
 - Innovación
 
-# Información
-- Data Science
-- Agentes Virtuales
-- Programación R
-- Programación R(https://github.com/Mpozoc/Documentos/tree/master/Programación_R)
 
-```
+
+
+
+
 
 
