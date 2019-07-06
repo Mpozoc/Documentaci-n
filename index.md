@@ -8,15 +8,14 @@
 
 ### Documentación
 
--[Agentes Virtuales](https://github.com/Mpozoc/Documentos/tree/master/Agentes%20Inteligentes)
+- [Agentes Virtuales](https://github.com/Mpozoc/Documentos/tree/master/Agentes%20Inteligentes)
 - Data Science
 
-  -[Introducción](https://github.com/Mpozoc/Documentos/blob/master/Intro_Datascience.md)
-  
-  -[Programación R](https://github.com/Mpozoc/Documentos/tree/master/Programación_R)
+  - [Introducción](https://github.com/Mpozoc/Documentos/blob/master/Intro_Datascience.md)  
+  - [Programación R](https://github.com/Mpozoc/Documentos/tree/master/Programación_R)
 
 
-# Reflexiones
+### Reflexiones
 - Transformación digital
 - Innovación
 
