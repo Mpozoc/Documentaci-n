@@ -18,7 +18,7 @@
 # Información
 - Data Science
 - Agentes Virtuales
-
+- Programación R
 
 ```
 
