@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introducción Data Science"
+published: true 
 ---
 
 # Datascience
