@@ -1,7 +1,7 @@
-## Tecnología  - Mi experiencia y algunos datos más
+# Tecnología  - Mi experiencia y algunos datos más
 
 
-# Experiencia en Proyectos
+### Experiencia en Proyectos
 - Trabajo en Equipos
 - Agile
 - Tools
@@ -10,7 +10,9 @@
 
 -[Agentes Virtuales](https://github.com/Mpozoc/Documentos/tree/master/Agentes%20Inteligentes)
 - Data Science
+
   -[Introducción](https://github.com/Mpozoc/Documentos/blob/master/Intro_Datascience.md)
+  
   -[Programación R](https://github.com/Mpozoc/Documentos/tree/master/Programación_R)
 
 
