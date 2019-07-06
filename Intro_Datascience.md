@@ -1,3 +1,7 @@
+---  
+layout: Default
+---  
+
 # Datascience
 ## Qué es un Data Scientist?
 “Una persona que construye
