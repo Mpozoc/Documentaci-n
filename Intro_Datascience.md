@@ -1,5 +1,5 @@
 ---  
-layout: Default
+layout: Page
 ---  
 
 # Datascience
