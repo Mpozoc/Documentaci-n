@@ -22,7 +22,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.https://github.com/Mpozoc/Tecnologia/blob/master/_posts/2019-07-07-intro_datascience.md }}">{{ post.title }}</a>
+      <a href="{{ https://github.com/Mpozoc/Tecnologia/blob/master/_posts/2019-07-07-intro_datascience.md }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
