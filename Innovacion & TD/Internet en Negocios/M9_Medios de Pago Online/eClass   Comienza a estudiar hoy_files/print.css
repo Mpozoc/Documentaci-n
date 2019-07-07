@@ -1,0 +1,33 @@
+html, body {
+	background: #fff;
+	color: #000;
+	font-family: Arial, sans-serif;
+	font-size: 12pt;
+}
+a:link, a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+}
+h2.title {
+	margin-top: 0;	
+}
+
+#content {
+	margin: 0 5%;
+	padding-top: .8em;
+}/*
+	#content a:link:after, #content a:visited:after {
+		content: " (" attr(href) ") ";
+		font-size: 90%;
+	}
+	#content a[href^="/"]:after {
+		content: "";
+	}
+*/
+
+div.respuesta-textarea {
+	border: 1px #cccccc solid;
+	padding: 5px;
+}
