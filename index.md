@@ -22,7 +22,11 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url}}">{{ post.title }}</a>
+        {{  post.date | date: '%-d' }} 
+            {% assign m = post.date | date: '%-m' %}
+            {% case m %}              
+            {{  post.date | date: '%Y' }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
