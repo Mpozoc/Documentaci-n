@@ -23,8 +23,7 @@
   {% for post in site.posts %}
     <li>
         {{  post.date | date: '%-d' }} 
-            {% assign m = post.date | date: '%-m' %}
-            {% case m %}              
+            {% assign m = post.date | date: '%-m' % }            
             {{  post.date | date: '%Y' }}
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
