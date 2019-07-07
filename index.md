@@ -8,7 +8,7 @@
 
 ### Documentación
 
-- [Agentes Virtuales](https://github.com/Mpozoc/Documentos/tree/master/Agentes%20Inteligentes)
+- [Agentes Virtuales](https://github.com/Mpozoc/Tecnologia/tree/master/Agentes%20Inteligentes)
 - Data Science
 
   - [Introducción](https://github.com/Mpozoc/Tecnologia/blob/master/Intro_Datascience.md)  
@@ -36,14 +36,14 @@ Esto no es sólo ingeniería, se necesita conocimiento de matemáticas y dominio
 
 Y lo más importante, esto es una ciencia, porque se necesita **experimentar**
 
-<img src="https://github.com/Mpozoc/Documentos/blob/master/Datascience/Images/experimentar.png" width="700" height="300">
+<img src="https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/experimentar.png" width="700" height="300">
 
 Principios de la ciencia de datos
 
-![](https://github.com/Mpozoc/Documentos/blob/master/Datascience/Images/etapas.png)
+![](https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/etapas.png)
 
 Ahora que necesitamos hacer
-![](https://github.com/Mpozoc/Documentos/blob/master/Datascience/Images/pasos.png)
+![](https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/pasos.png)
 
 
 ## Plataforma Big Data
@@ -67,7 +67,7 @@ Cuando hablamos de capacidad de almacenamiento y procesamiento a nivel de infrae
 - Calidad y depuración de datos
 ## Comprender
 
-<img src="https://github.com/Mpozoc/Documentos/blob/master/Datascience/Images/etapas.png" width="250" height="200">
+<img src="https://github.com/Mpozoc/Tecnologia/blob/master/Datascience/Images/etapas.png" width="250" height="200">
 
 ## Identificar
 	- Patrones Estadísticos numéricos
